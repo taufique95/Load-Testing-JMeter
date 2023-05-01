@@ -60,5 +60,6 @@ From the reports gathers, the following results can be concluded:
 | 200 | 10| 16| 12000| 0.57%
 
 While executed 200 concurrent requests, found 45 requestes got "403 Forbidden" error and the error rate was 0.57%.
-Summary: Server can handle almost concurrent 10500 API call with almost zero (0) error rate.
+
+Summary: Server can handle approximately concurrent 10500 API call with almost zero (0) error rate.
 
