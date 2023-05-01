@@ -51,7 +51,7 @@ https://htmlpreview.github.io/?https://github.com/taufique95/Load-Testing-JMeter
 
 ## Test Results Summary
 The test was performed on frequently used APIs on https://restful-booker.herokuapp.com/apidoc/index.html.
-From the reports gathers, the following results can be concluded:
+From the reports gathered, the following results can be concluded:
 
 | Concurret Request | Loop Count | AVG TPS for Total Sample | Total Concurrent API requested | Error(%) |
 | ------ | ------ | ------ | ------ | ------ |
